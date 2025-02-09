@@ -1,0 +1,9 @@
+((category misc)
+  (synopsis "Increment elements of f64vector in-place")
+  (author "Kevin")
+  (license "Public Domain")
+  (version "0.1")
+  (components
+    (extension hello (link-options "-L" "-lhello"))
+  )
+)
